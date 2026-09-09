@@ -11,6 +11,7 @@ This is the map. Everything else hangs off this page.
 - [[Closures and Decorators]]
 - [[Concurrency - Threads Queues Generators]]
 - [[RabbitMQ Setup and the guest User]]
+- [[RabbitMQ - How It Works and the Code]]
 - [[OAuth2 and Keycloak]]  <- next topic
 
 ## Projects

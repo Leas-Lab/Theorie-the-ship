@@ -157,6 +157,9 @@ Two measurements give you a speed. Multiply by 1.5 seconds of lead and you
 aim at where the station **will be**. Same idea as leading a moving target
 when shooting clay pigeons. Nobody writes that by accident.
 
+**Full RabbitMQ concept + code walkthrough for the exam:**
+[[RabbitMQ - How It Works and the Code]].
+
 ### Getting it to actually connect
 
 The hard part was not the Python. It was **where the broker lives and who
